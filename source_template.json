@@ -1,0 +1,27 @@
+{
+description: "",
+edtf:deprecated: "YYY-MM-DD",
+edtf:inception: "YYY-MM-DD",
+fullname: "",
+id: -1,
+key: "",
+license: "CC BY 4.0",
+license_text: "Institut Cartogràfic i Geològic de Catalunya (ICGC), under a CC BY 4.0 license",
+license_type: "CC BY 4.0",
+mz:associated: -1,
+mz:is_current: -1,
+name: "",
+prefix: "",
+src:via: [
+{
+context: "Catalunya",
+source_link: "https://github.com/OpenICGC/limits_administratius/tree/master/data",
+source_name: "Geometries Catalunya",
+source_note: "Local admins and regions of Catalunya"
+}
+],
+url: "",
+usage_concordance: -1,
+usage_geometry: -1,
+usage_property: -1
+}
